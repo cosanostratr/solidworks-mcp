@@ -40,12 +40,13 @@ Professional SolidWorks MCP (Model Context Protocol) server for local AI assista
 ### Quick Install (uvx)
 
 ```bash
-# Run directly with uvx from local directory
+# Clone and run directly with uvx
+git clone https://github.com/cosanostratr/solidworks-mcp.git
 cd solidworks-mcp
 uvx --from . solidworks-mcp
 ```
 
-### Install as Package
+### Install & Run
 
 ```bash
 # Clone repository
